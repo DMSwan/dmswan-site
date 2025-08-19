@@ -4,8 +4,6 @@ subtitle: "Hello Quarto & Positron"
 date: "2025-08-19"
 ---
 
-After I lost my job due to federal contract cancellations earlier this year, I started to consider what I wanted to do next. One option is data science stuff. The market is a little bit tough at the moment, and I may need to brush up on some skills. I also haven't touched by website since 2022, which feels like a bit of a bummer since I can't really use it in my application process lest I look silly.
-
 Like many other people in the R Extended Universe circa 2021, I originally created my website using blogdown and Hugo. In a lot of ways, it was great! It worked with minimal fiddling, integrated R code and markdown, etc. However, the way that Hugo worked meant that if you didn't keep up with your site, it was pretty easy to get stuck with a site that was hard to update. This is one of the reasons that I haven't really touched my site since 2022. Updating it became kind of a pain. Enter Quarto, which is a sort of replacement/extension of the R Markdown document supported by Posit. There's still some fiddling, but overall it wasn't too painful to port the important stuff from my old website to this format. For reference, I used the following blog posts to help bootstrap my process:
 
 -   <https://www.andreashandel.com/posts/2022-10-01-hugo-to-quarto-migration/>
