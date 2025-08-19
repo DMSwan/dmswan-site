@@ -1,0 +1,28 @@
+---
+title: "Daniel M. Swan"
+image: face.png
+about:
+  id: hero-heading
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/dmswan
+    - icon: github
+      text: Github
+      href: https://github.com/dmswan
+---
+
+I am research methodologist and data scientist. I like to help people people produce their best research. I have been programming and working with data in R for over ten years. I also have extensive experience with research synthesis projects, particularly evidence clearinghouse projects for the federal government. I am a named contributor to two versions of the What Works Clearinghouse handbooks, worked on the official training system, and also trained reviewers to read and code studies for systematic review and meta-analysis projects. As a graduate student, I was trained in research methods, statistics, and causal inference.
+
+## Education
+
+University of Texas at Austin \| Austin, TX Phd and MEd in Educational Psychology \| 2019
+
+University of Texas at Dallas \| Richardson, TX B.A. in Psychology \| 2010
+
+## Experience
+
+Abt Global \| Senior Analyst \| October 2023 - March 2025
+
+Univerity of Oregon \| Research Associate \| October 2018 - May 2023
