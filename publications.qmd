@@ -1,0 +1,15 @@
+---
+title: "Publications"
+format: html
+---
+
+Kelly, N. R., Guidinger, C., **Swan, D. M**., Thivel, D., Folger, A., Luther, G. M., & Hahn, M. E. (2024). A brief bout of moderate intensity physical activity improves preadolescent children's behavioral inhibition but does not change their energy intake. *Journal of behavioral medicine*, 47(4), 692–706. <https://doi.org/10.1007/s10865-024-00495-1>
+
+**Swan, D.M.**, Pustejovsky, J.E., & Beretvas, S. N. (2020). The impact of response-guided designs on count outcomes in single-case experimental design baselines. *Evidence-Based Communication Assessment and Intervention*, 14(1-2), 82-107, <https://doi.org/10.1080/17489539.2020.1739048>
+
+Pustejovsky, J.E., **Swan, D.M**., & English, K.W. (2019). An examination of measurement procedures and characteristics of baseline outcome data in single-case research. *Behavior Modification*, 47(6), 1423–1454. <https://doi.org/10.1177/0145445519864264> ([**Pre-print**](https://psyarxiv.com/dv9jg/))
+ 
+**Swan, D.M**., & Pustejovsky, J.E. (2018). A gradual effects model for single-case designs. *Multivariate Behavioral Research*, 53(4), 574-593 <https://doi.org/10.1080/00273171.2018.1466681>() ([**Pre-print**](https://psyarxiv.com/vh964/))
+ 
+Pustejovsky, J.E.  & **Swan, D.M.**  (2015). Four methods of analyzing partial interval recording data, with application to single-case research. *Multivariate Behavioral Research*, 50(3), 365-380. <https://doi.org/10.1080/00273171.2015.1014879> ([**Pre-print**](https://jepusto.com/files/4-PIR-methods-MBR.pdf))
+

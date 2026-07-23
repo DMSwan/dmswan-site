@@ -2,10 +2,14 @@ project:
   type: website
 
 website:
+  site-url: dmswan.com
+  repo-url: https://github.com/DMSwan/dmswan-site
   title: "Danny Swan"
   navbar:
     left:
       - posts.qmd
+      - text: Publications
+        href: publications.qmd
     right:
       - icon: github
         href: https://github.com/
@@ -15,7 +19,8 @@ format:
   html:
     theme:
       light: zephyr
-      dark: darkly     
+      dark: darkly
+    css: styles.css    
 execute:
   freeze: auto
 
