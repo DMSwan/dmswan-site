@@ -113,6 +113,8 @@ There are a few different packages in R that will handle this, but I landed on `
 ```{R}
 library(plotly)
 
+#pre-process voter percent to get the proper gradient
+#without alpha set to TRUE, I got much lighter colors than ggplot
 va_cart <- va_cart |>
   mutate(fill_color = scales::col_numeric(
     palette = c("#E9141D", "#000292"), 
@@ -122,15 +124,15 @@ va_cart <- va_cart |>
 plot_ly(stroke = I("black"), span = I(1)) |> 
   add_sf(
     data = virginia,
-    type = "scatter", 
+    type = "scatter", #If I don't set to "scatter" manually, Plotly just guesses this anyway
     color = I("white"),
     hoverinfo = "none"
   ) |>
   add_sf(
     data = va_cart,
     type = "scatter", 
-    color = ~I(fill_color),
-    alpha = 0.80,
+    color = ~I(fill_color), #call the pre-processed gradient
+    alpha = 0.80, #Plotly's default alpha is much lower, doesn't match ggplot as well
     split = ~NAMELSAD, 
     text = ~paste0(NAMELSAD, "<br>", 
       "Population: ", scales::number(population, scale_cut = scales::cut_short_scale(), accuracy = 1),"<br>",
