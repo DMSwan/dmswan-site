@@ -1,6 +1,7 @@
 ---
 title: "Complex solutions to simple problems"
 date: "2026-08-03"
+
 format:
   html:
     code-overflow: scroll
